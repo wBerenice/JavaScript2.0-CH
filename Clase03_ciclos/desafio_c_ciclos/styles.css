@@ -1,0 +1,19 @@
+h1{
+    font-size: 3rem;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+p{
+    font-size: 1.2rem;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+img {
+    width: 30%;
+}
+
+.contenedor1{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
