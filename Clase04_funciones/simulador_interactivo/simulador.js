@@ -12,7 +12,6 @@ function sumaProductos(pr1, pr2, pr3, pr4, pr5){
         }
     }
     
-
     
     let producto1 = parseInt(prompt("¿Cuál sería el precio de tu 1er producto? \n Gafas:  $40 \n Sombrero:  $100 \n Flotador:  $150 \n Bloqueador:  $50 \n Googles:  $20"));
     
