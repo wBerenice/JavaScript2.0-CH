@@ -1,0 +1,22 @@
+h1, p, h3 {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+p {
+    font-weight: bold;
+    color: blue;
+}
+
+
+img {
+    width: 100%;
+    height: auto;
+    border: 1px red solid;
+}
+
+
+.contenedor-1{
+    width: 20%;
+    border: 1px red solid;
+    text-align: center;
+}
