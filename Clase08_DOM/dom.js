@@ -5,8 +5,8 @@ console.dir(document.body);
 //getElementById
 let seccion = document.getElementById("principal");
 
-// console.log(seccion.innerHTML); 
 //visualizo lo que tiene esa seccion
+// console.log(seccion.innerHTML); 
 
 //Cambiando el color de fondo a amarillo
 seccion.style.background = "#F75E25";
