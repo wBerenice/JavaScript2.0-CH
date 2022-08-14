@@ -14,6 +14,7 @@ class ElementoCarrito {
     }
 }
 
+
 /**
  * Definiciones de constantes
  */
