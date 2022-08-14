@@ -51,30 +51,30 @@ dibujarCatalogoProductos();
 //Funciones pusheando nuevos valores a cada propiedad previamente descrita en el Molde Camisa 
 
 function cargarProductosMujer() {
-    productos.push(new Camisa(1, 'Dalila',"Lino", 299, '../img/01-mujer-morado-claro.png', "Lila"));
-    productos.push(new Camisa(2, 'Nancy',"Lana", 150, '../img/02-mujer-blanco.png', "Blanco"));
-    productos.push(new Camisa(3, 'Lisa', "Algodón", 120, '../img/03-mujer-azul-marino.png', "Azul marino"));
-    productos.push(new Camisa(4, 'Ludmila', "Lino", 140, '../img/04-mujer-azul-cielo.png', "Azul cielo"));
-    productos.push(new Camisa(5, 'Lucia', "Lana" ,299, '../img/05-mujer-azul-puntos.png', "Azul con puntos"));
-    productos.push(new Camisa(6, 'Ximena',"Lino", 199, '../img/06-mujer-coral.png', "Coral"));
-    productos.push(new Camisa(7, 'Mabel', "Algodón", 150, '../img/07-mujer-azul-rey.png', "Azul Rey"));
-    productos.push(new Camisa(8, 'Madison', "Lino", 250, '../img/08-mujer-azul-tercio.png', "Azul Tercio"));
-    productos.push(new Camisa(9, 'Aurora', "Algodón",130, '../img/09-mujer-verde.png', "Verde"));
-    productos.push(new Camisa(10, 'Amelia', "Algodón", 160, '../img/10-mujer-amarillo.png', "Amarillo"));
+    productos.push(new Camisa(1, 'Dalila',"Lino", 299, './img/01-mujer-morado-claro.png', "Lila"));
+    productos.push(new Camisa(2, 'Nancy',"Lana", 150, './img/02-mujer-blanco.png', "Blanco"));
+    productos.push(new Camisa(3, 'Lisa', "Algodón", 120, './img/03-mujer-azul-marino.png', "Azul marino"));
+    productos.push(new Camisa(4, 'Ludmila', "Lino", 140, './img/04-mujer-azul-cielo.png', "Azul cielo"));
+    productos.push(new Camisa(5, 'Lucia', "Lana" ,299, './img/05-mujer-azul-puntos.png', "Azul con puntos"));
+    productos.push(new Camisa(6, 'Ximena',"Lino", 199, './img/06-mujer-coral.png', "Coral"));
+    productos.push(new Camisa(7, 'Mabel', "Algodón", 150, './img/07-mujer-azul-rey.png', "Azul Rey"));
+    productos.push(new Camisa(8, 'Madison', "Lino", 250, './img/08-mujer-azul-tercio.png', "Azul Tercio"));
+    productos.push(new Camisa(9, 'Aurora', "Algodón",130, './img/09-mujer-verde.png', "Verde"));
+    productos.push(new Camisa(10, 'Amelia', "Algodón", 160, './img/10-mujer-amarillo.png', "Amarillo"));
 }
 
 
 function cargarProductosHombre() {
-    productos.push(new Camisa(11, 'Jacob',"Algodón", 199, '../img/01-hombre-negro.png', "Negro"));
-    productos.push(new Camisa(12, 'Alexander',"Lino", 250, '../img/02-hombre-rojo.png', "Rojo"));
-    productos.push(new Camisa(13, 'Julian', "Algodón", 99, '../img/03-hombre-azul.png', "Azul"));
-    productos.push(new Camisa(14, 'leonardo', "Lino", 200, '../img/04-hombre-azul-claro.png', "Azul Claro"));
-    productos.push(new Camisa(15, 'Charlie', "Lana" , 150, '../img/05-hombre-tierroso.png', "Tierroso"));
-    productos.push(new Camisa(16, 'William',"Algodón", 120, '../img/06-hombre-rosa.png', "Rosa"));
-    productos.push(new Camisa(17, 'Noah', "Lana", 189, '../img/07-hombre-naranja.png', "Naranja"));
-    productos.push(new Camisa(18, 'Jack', "Algodón", 130, '../img/08-hombre-azul-cielo.png', "Azul Cielo"));
-    productos.push(new Camisa(19, 'Paul', "Lino",140, '../img/09-hombre-verde-pasto.png', "Verde Pasto"));
-    productos.push(new Camisa(20, 'Daniel', "Algodón", 160, '../img/10-hombre-naranja-farol.png', "Naranja Farol"));
+    productos.push(new Camisa(11, 'Jacob',"Algodón", 199, './img/01-hombre-negro.png', "Negro"));
+    productos.push(new Camisa(12, 'Alexander',"Lino", 250, './img/02-hombre-rojo.png', "Rojo"));
+    productos.push(new Camisa(13, 'Julian', "Algodón", 99, './img/03-hombre-azul.png', "Azul"));
+    productos.push(new Camisa(14, 'leonardo', "Lino", 200, './img/04-hombre-azul-claro.png', "Azul Claro"));
+    productos.push(new Camisa(15, 'Charlie', "Lana" , 150, './img/05-hombre-tierroso.png', "Tierroso"));
+    productos.push(new Camisa(16, 'William',"Algodón", 120, './img/06-hombre-rosa.png', "Rosa"));
+    productos.push(new Camisa(17, 'Noah', "Lana", 189, './img/07-hombre-naranja.png', "Naranja"));
+    productos.push(new Camisa(18, 'Jack', "Algodón", 130, './img/08-hombre-azul-cielo.png', "Azul Cielo"));
+    productos.push(new Camisa(19, 'Paul', "Lino",140, './img/09-hombre-verde-pasto.png', "Verde Pasto"));
+    productos.push(new Camisa(20, 'Daniel', "Algodón", 160, './img/10-hombre-naranja-farol.png', "Naranja Farol"));
 }
 
 
